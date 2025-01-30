@@ -6,21 +6,21 @@ This document provides a foundational primer on Splunk and a quick-reference che
 
 ## Table of Contents
 
-1.	[Splunk Overview](#1-splunk-overview)
-		1.1.	What is Splunk?
-		1.2. 	Why is Splunk Important (Real-world Use Cases)?
-		1.3. 	Key Features of Splunk
-		1.4. 	Key Concepts to remember
-2. [Splunk Query Cheat Sheet: Essential SPL for Log Analysis](#2-splunk-query-cheat-sheet-essential-spl-for-log-analysis)
-		2.1. 	Core Search & Filtering Commands
-		2.2. 	Data Transformation & Manipulation
-		2.3. 	Grouping & Aggregation
-		2.4. 	Sorting & Ordering
-		2.5. 	Subqueries
-		2.6. 	Charting & Visualization
-		2.7. 	Time Based Queries
-		2.8. 	Lookup Tables
-		2.9. 	Key takeaways
+1.	Splunk Overview
+	1.1.	What is Splunk?
+	1.2. 	Why is Splunk Important (Real-world Use Cases)?
+	1.3. 	Key Features of Splunk
+	1.4. 	Key Concepts to remember
+2.	Splunk Query Cheat Sheet: Essential SPL for Log Analysis
+	2.1. 	Core Search & Filtering Commands
+	2.2. 	Data Transformation & Manipulation
+	2.3. 	Grouping & Aggregation
+	2.4. 	Sorting & Ordering
+	2.5. 	Subqueries
+	2.6. 	Charting & Visualization
+	2.7. 	Time Based Queries
+	2.8. 	Lookup Tables
+	2.9. 	Key takeaways
 
 ## 1. Splunk Overview
 
